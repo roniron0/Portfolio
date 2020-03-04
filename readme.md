@@ -6,4 +6,4 @@ Here's the instructions on the current project.
 
 yaddahh yaddah yaddah
 
-i'm getting in github
+i'm editing in github
